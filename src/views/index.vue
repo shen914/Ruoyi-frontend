@@ -4,7 +4,7 @@
       <el-col :sm="24" :lg="12" style="padding-left: 20px">
         <h2>小沈后台管理框架</h2>
         <p>
-          基于若依框架进行修改，改完问就是自己做的hh。
+          基于若依框架进行修改。
         </p>
         <p>
           <b>当前版本:</b> <span>v{{ version }}</span>
